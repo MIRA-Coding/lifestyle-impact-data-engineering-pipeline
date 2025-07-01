@@ -97,7 +97,10 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
-├── main.py                             # It for the Streamlit dashboard (it use the generated dataset from ipynb file)
+├── main.py                         # It for the Streamlit dashboard (it use the generated dataset from ipynb file)
+
 ├── DataEngineering final project.ipynb # The file contain the process of the first 3 phases
-├── student_lifestyle_dataset.csv       # Input dataset **Original**
+
+├── student_lifestyle_dataset.csv   # Input dataset **Original**
+
 └── README.md                       # This README file
