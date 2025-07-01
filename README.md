@@ -1,5 +1,7 @@
-# lifestyle-impact-data-engineering-pipeline
+
+# lifestyle-impact-data-engineering-pipeline 👩‍🎓🏫
 using: https://www.kaggle.com/datasets/charlottebennett1234/lifestyle-factors-and-their-impact-on-students
+
 ## Project Overview
 
 The **Student Lifestyle pipeline** is a comprehensive data processing and visualization pipeline designed to analyze and present student-related data. It focuses on key aspects such as academic performance, daily activities, and stress levels to provide actionable insights. The system is implemented in Python and leverages various database and processing technologies across four distinct phases, culminating in an interactive Streamlit front-end dashboard.
@@ -97,10 +99,18 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
-├── main.py                         # It for the Streamlit dashboard (it use the generated dataset from ipynb file)
+├── main.py                                        # It for the Streamlit dashboard (it use the generated dataset from ipynb file)
 
-├── DataEngineering final project.ipynb # The file contain the process of the first 3 phases
+├── DataEngineering final project.ipynb            # The file contain the process of the first 3 phases
 
-├── student_lifestyle_dataset.csv   # Input dataset **Original**
+├── student_lifestyle_dataset..csv                 # Input dataset **Original**
 
-└── README.md                       # This README file
+├── Project Report_ Data Engineering Pipeline.pdf  # a comprehensive [Project Report_ for Data Engineering Pipeline.pdf](https://github.com/user-attachments/files/20996092/Project.Report_.Data.Engineering.Pipeline.pdf)
+
+
+└── README.md                                      # This README file
+
+
+
+## thank you 
+![image](https://github.com/user-attachments/assets/1764890e-245c-4c93-8a0e-0606b7f28e4a)
